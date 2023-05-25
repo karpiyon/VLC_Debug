@@ -8,3 +8,5 @@ To achieve this I keep the MediaPLayer object globally so that I will be able to
 What I can’t achieve, so far, is continuous play. 
 I am trying the add an event to the “mediaPlayer.EndReached” event but the player object does not keep playing.
  
+It requires these nuget:
+LibVLCSharp & VideoLAN.LibVLC.Windows
